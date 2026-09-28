@@ -1,25 +1,13 @@
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/the-mskd-dev?style=for-the-badge)](https://github.com/sponsors/the-mskd-dev/)
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/the.masked.dev)
-
-[![F-Droid Version](https://img.shields.io/f-droid/v/com.mskd.flux)](https://f-droid.org/ko/packages/com.mskd.flux/)
-
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/themskddev?style=for-the-badge)](https://x.com/themskddev)
-
-
-
-# Flux
+# Flux Next
 ## _Local shows/movies/animes library and player_
 
-Welcome to **FLUX**!
+Welcome to **FLUX Next**!
 This app allows you to organize your local files (movies, shows, anime) in a beautiful library, and to play them in a beautiful player (okay, "beautiful" maybe means "not to ugly").
 
 **DISCLAIMER**: This app is mainly used for my own personal use, and as a sandbox for Android Development. I currently have no job, so I'm trying to improve my skills to find one more quickly.
 If you ever want to support me, or if you are a philanthropist, I accept all donations!
 
-If you want some news about the development of the app, follow my X account!
-
-## Features
+## Features:
 
 - Show your local files in a library
 - Play your files as a media player and save your progress
